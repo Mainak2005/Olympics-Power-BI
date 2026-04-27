@@ -23,26 +23,35 @@ Season
 These slicers allow users to dynamically explore the dataset.
 
 📈 Key Visualizations
+
 🥇 Countries by Total Medals
+
 Bar chart showing top countries based on medal count
 Highlights dominance of nations like the United States and others
+
 🧑‍🤝‍🧑 Athletes by Total Medals
 Displays top athletes with the highest medal counts
 Helps identify consistent performers
+
 📅 Total Athletes by Year
 Shows participation growth over time
 Highlights how the Olympics expanded globally
+
 📊 Sports Participation
 Distribution of athletes across different sports
 Identifies the most popular Olympic sports
+
 📏 Height vs Weight Correlation
 Scatter plot showing relationship between height and weight
 Useful for identifying general athletic body trends
+
 🎂 Athletes by Age
 Histogram showing age distribution
 Most athletes fall within peak performance age ranges
+
 ⚖️ Athletes by Weight
 Distribution of athlete weights across events
+
 📏 Athletes by Height
 Distribution of athlete heights
 
